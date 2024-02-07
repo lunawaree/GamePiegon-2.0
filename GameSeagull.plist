@@ -1,0 +1,8 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.gamerdelights.gamepigeon.ext",
+            "com.apple.MobileSMS"
+        );
+    };
+}
